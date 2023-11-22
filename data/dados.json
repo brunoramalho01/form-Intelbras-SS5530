@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "nome": "Bruno Ramalho",
+        "foto": "export\/1_BrunoRamalho.png",
+        "data": "2023-11-21",
+        "email": "brunoramalho01@gmail.com",
+        "telefone": "+5588982618518",
+        "cpf": "000.000.000-00",
+        "palestras": [
+            "Palestra1",
+            "Palestra3"
+        ]
+    }
+]
